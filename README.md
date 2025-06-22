@@ -10,13 +10,14 @@ This project implements a **prefix-based autocomplete system** using a **Trie** 
 
 ## 📁 Project Structure
 
+```
 autocomplete_engine/
-├── main.cpp # Entry point
-├── autocomplete.cpp # Trie logic implementation
-├── trie.h # Trie structure definitions
-├── words.txt # Word list with frequencies
-└── README.md # This file
-
+├── main.cpp           # Entry point
+├── autocomplete.cpp   # Trie logic implementation
+├── trie.h             # Trie structure definitions
+├── words.txt          # Word list with frequencies
+└── README.md          # This file
+```
 
 ## 🚀 How to Run
 
